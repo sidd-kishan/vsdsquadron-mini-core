@@ -1,3 +1,6 @@
+![Alt Text](task1/2026_07_15_09.38.00_edit.jpg)
+
+
 ## What is a firmware library?
 A firmware library is prewritten set of software instruction that does the heavy lifting of colating all the functionality of the hardware to obtain a certain goal like networking, sensor integration, data protocol interfacing, etc.
 ## Why are APIs important?

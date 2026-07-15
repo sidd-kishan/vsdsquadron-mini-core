@@ -1,4 +1,4 @@
-![Alt Text](task1/2026_07_15_09.38.00_edit.jpg)
+![Alt Text](2026_07_15_09.38.00_edit.jpg)
 
 
 ## What is a firmware library?
